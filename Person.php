@@ -8,5 +8,8 @@
 
 class Person
 {
-
+    public function __construct()
+    {
+        $email = "tomas@tom.io";
+    }
 }
