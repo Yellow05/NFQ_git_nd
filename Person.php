@@ -8,5 +8,8 @@
 
 class Person
 {
-
+    public function __construct()
+    {
+        $Firstname = "Tomas";
+    }
 }
